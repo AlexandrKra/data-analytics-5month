@@ -28,7 +28,7 @@
 - Certification work on SQL:
   - Description: Our task is to simulate the change in student balances. Balance is the number of lessons each student has. To check if everything is in order with the data, to make a list of hypotheses and questions, it is important for us to understand: 1) how many lessons were on the balance for each calendar day; 2) how this number changed under the influence of transactions (payments, accruals, corrective write-offs) and lessons (write-offs from the balance as the lessons were completed).
   - Results: The result is a query that collects data on student balances for each day they live 
-  - Link: [Certification work on SQL](https://)
+  - Link: [Certification work on SQL](https://cloud.mail.ru/public/uCKj/4CJATDiRL)
 
 - Parameterized dashboards: dynamics of the number of transactions by outlets & dynamics of the duration of transactions by outlets.
   - Description: A project on forecasting electricity consumption. Work was carried out using Python and statistical methods.
