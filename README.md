@@ -30,12 +30,6 @@
   - Results: The result is a query that collects data on student balances for each day they live 
   - Link: [Certification work on SQL](https://cloud.mail.ru/public/uCKj/4CJATDiRL)
 
-- Parameterized dashboards: dynamics of the number of transactions by outlets & dynamics of the duration of transactions by outlets.
-  - Description: A project on forecasting electricity consumption. Work was carried out using Python and statistical methods.
-  - Results: 
-    - [Parameterized dashboard 1](https://)
-    - [Parameterized dashboard 2](https://)
-
 - Building the Unit Economy Calculator:
   - Description: Set the calculator to account for adjustments to marketing plans and recalculate the plan for hiring teachers.
   - Results: [Unit Economy Calculator]([https://)](https://cloud.mail.ru/public/FmHC/sV9Hx28yb)
